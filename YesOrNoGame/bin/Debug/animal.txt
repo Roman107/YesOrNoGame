@@ -1,0 +1,6 @@
+Dog
+Cat
+Rabbit
+Hamster
+Cow
+Mouse

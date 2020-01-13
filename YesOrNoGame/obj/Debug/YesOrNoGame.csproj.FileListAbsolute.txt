@@ -1,0 +1,19 @@
+C:\Users\roman\source\repos\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.exe.config
+C:\Users\roman\source\repos\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.exe
+C:\Users\roman\source\repos\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.pdb
+C:\Users\roman\source\repos\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.exe
+C:\Users\roman\source\repos\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.pdb
+C:\Users\Roman107\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.exe.config
+C:\Users\Roman107\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.exe
+C:\Users\Roman107\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.pdb
+C:\Users\Roman107\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.csprojAssemblyReference.cache
+C:\Users\Roman107\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.csproj.CoreCompileInputs.cache
+C:\Users\Roman107\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.exe
+C:\Users\Roman107\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.pdb
+D:\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.exe.config
+D:\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.exe
+D:\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\bin\Debug\YesOrNoGame.pdb
+D:\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.exe
+D:\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.pdb
+D:\Disk Google\School\PV\YesOrNoGame\YesOrNoGame\obj\Debug\YesOrNoGame.csprojAssemblyReference.cache
